@@ -1,8 +1,8 @@
-package Practica240723;
+package practicas.Java_230724;
 
 import java.util.Scanner;
 
-public class numeroDivisible {
+public class NumeroDivisible {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

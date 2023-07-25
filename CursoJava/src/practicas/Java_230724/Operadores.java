@@ -1,4 +1,6 @@
-package Practica240723;
+package practicas.Java_230724;
+
+import java.util.Scanner;
 
 public class Operadores {
 
