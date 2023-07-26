@@ -1,0 +1,154 @@
+Condicionales Simples y Compuestos
+
+If - else
+Ejercicios:
+
+1 Realizar un programa que lea por teclado dos números, si el primero es mayor  al segundo informar su suma y diferencia, en caso contrario informar el  producto y la división del primero respecto al segundo.
+
+2 Se ingresan tres notas de un alumno, si el promedio es mayor o igual a siete  mostrar un mensaje "Promocionado".
+
+3 Se ingresa por teclado un número positivo de uno o dos dígitos (1..99) mostrar  un mensaje indicando si el número tiene uno o dos dígitos. (Tener en cuenta  que condición debe cumplirse para tener dos dígitos, un número entero).
+
+Condicionales Anidadas
+
+If - else
+Ejercicios:
+
+4 Se cargan por teclado tres números distintos. Mostrar por pantalla el mayor de  ellos.
+
+5 Se ingresa por teclado un valor entero, mostrar una leyenda que indique si el  número es positivo, nulo o negativo.
+
+6 Confeccionar un programa que permita cargar un número entero positivo de  hasta tres cifras y muestre un mensaje indicando si tiene 1, 2, o 3 cifras.
+Mostrar un mensaje de error si el número de cifras es mayor.
+
+7 Un postulante a un empleo, realiza un test de capacitación, se obtuvo la  siguiente información:
+Cantidad total de preguntas que se le realizaron y la cantidad de preguntas que contestó correctamente.
+Se pide confeccionar un  programa que ingrese los dos datos por teclado e informe el nivel del mismo según el porcentaje de respuestas correctas que ha obtenido, y sabiendo que:
+Nivel máximo:  Porcentaje>=90%  
+Nivel medio:  Porcentaje>=75% y <90%
+Nivel regular: Porcentaje>=50% y <75%
+Fuera de nivel: Porcentaje<50%
+
+Condicionales Compuestas con Operadores Lógicos (1/2)
+
+If - else
+Ejercicios:
+
+8 Realizar un programa que pida cargar una fecha cualquiera, luego verificar si dicha fecha corresponde a Navidad.
+
+9 Se ingresan tres valores por teclado, si todos son iguales se imprime la suma del  primero con el segundo y a éste resultado se lo multiplica por el tercero.
+
+10 Se ingresan por teclado tres números, si todos los valores ingresados son  menores a 10, imprimir en pantalla la leyenda "Todos los números son menores  a diez".
+
+11 Se ingresan por teclado tres números, si al menos uno de los valores ingresados  es menor a 10, imprimir en pantalla la leyenda "Alguno de los números es  menor a diez".
+
+12 Escribir un programa que pida ingresar la coordenada de un punto en el plano,  es decir dos valores enteros x e y (distintos a cero). Posteriormente imprimir en  pantalla en que cuadrante se ubica dicho punto. (1º Cuadrante si x > 0 Y y > 0 ,  2º Cuadrante: x < 0 Y y > 0, etc.)
+
+Condicionales Compuestas con Operadores Lógicos (2/2)
+
+If - else
+
+13 De un operario se conoce su sueldo y los años de antigüedad. Se pide confeccionar un programa que lea los datos de entrada e informe:
+a) Si el sueldo es inferior a 500 y su antigüedad es igual o superior a 10 años, otorgarle un aumento del 20 %, mostrar el sueldo a pagar.
+b) Si el sueldo es  inferior a 500 pero su antigüedad es menor a 10 años, otorgarle un aumento de 5%.
+c) Si el sueldo es mayor o igual a 500 mostrar el sueldo en pantalla sin cambios.
+
+14 Escribir un programa en el cual: dada una lista de tres valores numéricos distintos se calcule e informe su rango de variación (debe mostrar el mayor y el menor de ellos)
+
+Estructura repetitiva while (1/2)
+
+while
+Ejercicios:
+
+15 Escribir un programa que solicite ingresar 10 notas de alumnos y nos informe cuántos tienen notas mayores o iguales a 7 y cuántos menores.
+
+16 Se ingresan un conjunto de n alturas de personas por teclado. Mostrar la altura promedio de las personas.
+
+17 En  una  empresa trabajan n empleados cuyos sueldos oscilan entre $100 y $500, realizar un programa que lea los sueldos que cobra cada empleado e informe cuántos empleados cobran entre $100 y $300 y cuántos cobran más de $300. Además el programa deberá informar el importe que gasta la empresa en  sueldos al personal.
+
+18 Realizar un programa que imprima 25 términos de la serie 11 - 22 - 33 - 44, etc. (No se ingresan valores por teclado)
+
+19 Mostrar los múltiplos de 8 hasta el valor 500. Debe aparecer en pantalla 8 - 16 -  24, etc.
+
+Estructura repetitiva while (2/2)
+
+while
+
+20 Realizar un programa que permita cargar dos listas de 15 valores cada una. Informar con un mensaje cual de las dos listas tiene un valor acumulado mayor (mensajes "Lista 1 mayor", "Lista 2 mayor", "Listas iguales") Tener en cuenta que  puede haber dos o más estructuras repetitivas en un algoritmo.
+
+21 Desarrollar un programa que permita cargar n números enteros y luego nos informe cuántos valores fueron pares y cuántos impares. Emplear el operador '%'' en la condición de la estructura condicional: if (valor%2==0) // Si el if da verdadero luego es par.
+
+Estructura repetitiva do while
+
+while
+Ejercicios:
+
+22 Realizar un programa que acumule (sume) valores ingresados por teclado hasta ingresar el 9999 (no sumar dicho valor, indica que ha finalizado la carga). Imprimir el valor acumulado e informar si dicho valor es cero, mayor a cero o  menor a cero.
+
+23 En un banco se procesan datos de las cuentas corrientes de sus clientes. De cada cuenta corriente se conoce: número de cuenta y saldo actual. El ingreso de datos debe finalizar al ingresar un valor negativo en el número de cuenta. Se pide confeccionar un programa que lea los datos de las cuentas corrientes e informe:
+De cada cuenta: número de cuenta y estado de la cuenta según su saldo, sabiendo que:
+Estado de la cuenta 'Acreedor' si el saldo es >0.
+'Deudor' si el saldo es <0.  'Nulo' si el saldo es =0.
+La suma total de los saldos acreedores.
+
+Estructura repetitiva for (1/4)
+
+for
+Ejercicios:
+
+24 Confeccionar un programa que lea n pares de datos, cada par de datos corresponde a la medida de la base y la altura de un triángulo. El programa deberá informar:
+De cada triángulo la medida de su base, su altura y su superficie.
+La cantidad de triángulos cuya superficie es mayor a 12.
+
+25 Desarrollar un programa que solicite la carga de 10 números e imprima la suma de los últimos 5 valores ingresados.
+
+26 Desarrollar un programa que muestre la tabla de multiplicar del 5 (del 5 al 50).
+
+27 Confeccionar un programa que permita ingresar un valor del 1 al 10 y nos muestre la tabla de multiplicar del mismo (los primeros 12 términos)
+Ejemplo: Si ingreso 3 deberá aparecer en pantalla los valores 3, 6, 9, hasta el 36.
+Informar cuántos puntos se han ingresado en el primer, segundo, tercer y cuarto cuadrante. Al comenzar el programa se pide que se ingrese la cantidad de puntos a procesar.
+
+Estructura repetitiva for (2/4)
+
+for
+
+28 Realizar un programa que lea los lados de n triángulos, e informar:
+a) De cada uno de ellos, qué tipo de triángulo es: equilátero (tres lados iguales), isósceles (dos lados iguales), o escaleno (ningún lado igual)
+Cantidad de triángulos de cada tipo.
+Tipo de triángulo que posee menor cantidad.
+
+29 Escribir un programa que pida ingresar coordenadas (x,y) que representan puntos en el plano.
+Se realiza la carga de 10 valores enteros por teclado. Se desea conocer:
+La cantidad de valores ingresados negativos.
+La cantidad de valores ingresados positivos.
+La cantidad de múltiplos de 15.
+El valor acumulado de los números ingresados que son pares.
+
+Estructura repetitiva for (3/4)
+
+for
+
+30 Se cuenta con la siguiente información:
+Las edades de 50 estudiantes del turno mañana. Las edades de 60 estudiantes del turno tarde.
+Las edades de 110 estudiantes del turno noche. Las edades de cada estudiante deben ingresarse por teclado.
+
+Se desea:
+Obtener el promedio de las edades de cada turno (tres promedios)
+Imprimir dichos promedios (promedio de cada turno)
+Mostrar por pantalla un mensaje que indique cual de los tres turnos  tiene un promedio de edades mayor.
+
+Estructura repetitiva for (3/4)
+
+for
+
+31 Realizar un programa que nos pida un número n, y nos diga cuantos números  hay entre 1 y n que son primos.
+Realiza un programa que pida el lado de un triángulo rectángulo equilátero
+(como el de la figura) y lo imprima utilizando el carácter “*”
+
+35 Utilizando bucles anidados (un for dentro de otro for, por ejemplo), hacer un  programa que escriba los 25 números siguentes a uno que se pida por teclado,  en 5 filas, de la siguiente forma (ejemplo válido para x=1)
+
+01 02 03 04 05
+06 07 08 09 10
+11 12 13 14 15
+16 17 18 19 20
+21 22 23 24 25
