@@ -47,6 +47,7 @@ Ejercicios:
 Condicionales Compuestas con Operadores Lógicos (2/2)
 
 If - else
+Ejercicios:
 
 13 De un operario se conoce su sueldo y los años de antigüedad. Se pide confeccionar un programa que lea los datos de entrada e informe:
 a) Si el sueldo es inferior a 500 y su antigüedad es igual o superior a 10 años, otorgarle un aumento del 20 %, mostrar el sueldo a pagar.
@@ -73,6 +74,7 @@ Ejercicios:
 Estructura repetitiva while (2/2)
 
 while
+Ejercicios:
 
 20 Realizar un programa que permita cargar dos listas de 15 valores cada una. Informar con un mensaje cual de las dos listas tiene un valor acumulado mayor (mensajes "Lista 1 mayor", "Lista 2 mayor", "Listas iguales") Tener en cuenta que  puede haber dos o más estructuras repetitivas en un algoritmo.
 
@@ -106,18 +108,21 @@ La cantidad de triángulos cuya superficie es mayor a 12.
 
 27 Confeccionar un programa que permita ingresar un valor del 1 al 10 y nos muestre la tabla de multiplicar del mismo (los primeros 12 términos)
 Ejemplo: Si ingreso 3 deberá aparecer en pantalla los valores 3, 6, 9, hasta el 36.
-Informar cuántos puntos se han ingresado en el primer, segundo, tercer y cuarto cuadrante. Al comenzar el programa se pide que se ingrese la cantidad de puntos a procesar.
+
+28 Informar cuántos puntos se han ingresado en el primer, segundo, tercer y cuarto cuadrante.
+Al comenzar el programa se pide que se ingrese la cantidad de puntos a procesar.
 
 Estructura repetitiva for (2/4)
 
 for
+Ejercicios:
 
-28 Realizar un programa que lea los lados de n triángulos, e informar:
+29 Realizar un programa que lea los lados de n triángulos, e informar:
 a) De cada uno de ellos, qué tipo de triángulo es: equilátero (tres lados iguales), isósceles (dos lados iguales), o escaleno (ningún lado igual)
 Cantidad de triángulos de cada tipo.
 Tipo de triángulo que posee menor cantidad.
 
-29 Escribir un programa que pida ingresar coordenadas (x,y) que representan puntos en el plano.
+30 Escribir un programa que pida ingresar coordenadas (x,y) que representan puntos en el plano.
 Se realiza la carga de 10 valores enteros por teclado. Se desea conocer:
 La cantidad de valores ingresados negativos.
 La cantidad de valores ingresados positivos.
@@ -127,8 +132,9 @@ El valor acumulado de los números ingresados que son pares.
 Estructura repetitiva for (3/4)
 
 for
+Ejercicios:
 
-30 Se cuenta con la siguiente información:
+31 Se cuenta con la siguiente información:
 Las edades de 50 estudiantes del turno mañana. Las edades de 60 estudiantes del turno tarde.
 Las edades de 110 estudiantes del turno noche. Las edades de cada estudiante deben ingresarse por teclado.
 
@@ -140,12 +146,13 @@ Mostrar por pantalla un mensaje que indique cual de los tres turnos  tiene un pr
 Estructura repetitiva for (3/4)
 
 for
+Ejercicios:
 
-31 Realizar un programa que nos pida un número n, y nos diga cuantos números  hay entre 1 y n que son primos.
+32 Realizar un programa que nos pida un número n, y nos diga cuantos números  hay entre 1 y n que son primos.
 Realiza un programa que pida el lado de un triángulo rectángulo equilátero
 (como el de la figura) y lo imprima utilizando el carácter “*”
 
-35 Utilizando bucles anidados (un for dentro de otro for, por ejemplo), hacer un  programa que escriba los 25 números siguentes a uno que se pida por teclado,  en 5 filas, de la siguiente forma (ejemplo válido para x=1)
+33 Utilizando bucles anidados (un for dentro de otro for, por ejemplo), hacer un  programa que escriba los 25 números siguentes a uno que se pida por teclado,  en 5 filas, de la siguiente forma (ejemplo válido para x=1)
 
 01 02 03 04 05
 06 07 08 09 10
