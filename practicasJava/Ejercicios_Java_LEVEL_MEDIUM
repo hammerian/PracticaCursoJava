@@ -1,0 +1,24 @@
+Examen T1 de Programación. Modelo B
+
+1. Realiza un programa en el que introduzcas 1 número entre el 5 y el 20 (se debe validar esto) y muestre los números desde el 1 hasta ese número y vuelta hasta el 1 en una misma línea. (2 puntos)
+
+Ejemplo de ejecución:
+Introduce número: 22 Error. Introduce número: 7 1 2 3 4 5 6 7 6 5 4 3 21
+
+2. Realiza un programa pida un número entero por pantalla (se debe validar esto) y muestre todos los números de la serie Fibonacci hasta ese número (serie numérica que empieza con el 0 y el 1 y a partir de ahí va generando números nuevos a partir de la suma de los dos anteriores) (2 puntos)
+
+Ejemplo de ejecución:
+Introduce número: -5
+Error. Introduce número: 35 0 1 1 2 3 5 8 13 21 34
+
+3. Realiza un programa que pida n artículos por pantalla, de cada artículo debe pedirnos su nombre y su precio. Después de cada artículo debemos preguntar si deseamos seguir introduciendo objetos, si la respuesta es “sí” seguiremos pidiendo artículos. Cuando no deseemos seguir introduciendo artículos mostraremos el importe total de la compra y el nombre del artículo más caro. (3 puntos)
+
+4. Realiza un programa que simule ser un sorteo de lotería. Debe pedir por pantalla 5 números entre el 0 y el 9 (se debe validar esto) y cada uno pertenece a un fragmento de código (El primero será las decenas de millar, el segundo unidades de millar... y el último las unidades) y debe terminar construyendo el número de lotería premiado. Es obligatorio que en este ejercicio la recogida de los números y la construcción del número premiado se haga dentro de un bucle. (3 puntos)
+
+Ejemplo de ejecución1:
+Introduce número: 5
+Introduce número: 6
+Introduce número: 2
+Introduce número: 0
+Introduce número: 8
+El número premiado es el 56208
